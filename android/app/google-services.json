@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978357763838",
+    "project_id": "financebanking-ba736",
+    "storage_bucket": "financebanking-ba736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978357763838:android:0ed4ae16641987f8052faf",
+        "android_client_info": {
+          "package_name": "com.example.financebanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978357763838-2r9qleulmg9kbjn3jm9lpm797hi1on18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQRHhnKqdC6NprK9Enpe7CbKiUiOQZ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978357763838-2r9qleulmg9kbjn3jm9lpm797hi1on18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
